@@ -1,11 +1,9 @@
 # meterian-badges
-Some badges for the meterian project!
-# meterian-sample
-Examples of Meterian analysis of known projects (WWW)
+Examples of Meterian analysis of known projects 
 
 | Project       | Security          | Stability  |
 |:------------- | ------------- | ----- |
-| Eclipse Jetty | [![security status](https://www.meterian.com/badge/gh/johnsblatter/jetty.project/security)](https://www.meterian.com/report/gh/johnsblatter/jetty.project) | [![defect status](https://www.meterian.com/badge/gh/johnsblatter/jetty.project/stability)](https://www.meterian.com/report/gh/johnsblatter/jetty.project) |
+| Eclipse Jetty | [![security status](https://www.meterian.com/badge/gh/eclipse/jetty.project/security)](https://www.meterian.com/report/gh/eclipse/jetty.project) | [![defect status](https://www.meterian.com/badge/gh/eclipse/jetty.project/stability)](https://www.meterian.com/report/gh/eclipse/jetty.project) |
 | Deeplearning4J | [![Security Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/security)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j) | [![Defect Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/stability)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j) |
 | Eclipse vert.x | [![security status](https://www.meterian.io/badge/gh/eclipse/vert.x/security)](https://www.meterian.io/report/gh/eclipse/vert.x) | [![defect status](https://www.meterian.io/badge/gh/eclipse/vert.x/stability)](https://www.meterian.io/report/gh/eclipse/vert.x) |
 | MyBatis-3 | [![security status](https://www.meterian.io/badge/gh/mybatis/mybatis-3/security?branch=3.3.x)](https://www.meterian.io/report/gh/mybatis/mybatis-3?branch=3.3.x) | [![defect status](https://www.meterian.io/badge/gh/mybatis/mybatis-3/stability?branch=3.3.x)](https://www.meterian.io/report/gh/mybatis/mybatis-3?branch=3.3.x) |
